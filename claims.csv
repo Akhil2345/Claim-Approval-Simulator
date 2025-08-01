@@ -1,0 +1,6 @@
+ClaimID,Name,Age,PolicyType,ClaimAmount,PolicyStatus,ClaimDate
+C001,Anil Kumar,45,Term,500000,Active,2025-07-01
+C002,Meena Sharma,67,Whole Life,1000000,Inactive,2025-06-15
+C003,Ravi Joshi,55,Term,750000,Active,2025-07-20
+C004,Deepa Rao,70,Endowment,300000,Active,2025-07-10
+C005,Karan Patel,30,Term,400000,Active,2025-07-18
